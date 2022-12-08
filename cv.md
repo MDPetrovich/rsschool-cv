@@ -2,7 +2,7 @@
 
 ## Sheluto Viktor
 
-![photo](photo.png "Photo")
+![photo](Photo.jpg "Photo")
 
 #### Contact Info: 
 * Phone number: +375291847513 
