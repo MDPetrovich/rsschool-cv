@@ -2,6 +2,8 @@
 
 ## Sheluto Viktor
 
+![photo](photo.png "Photo")
+
 #### Contact Info: 
 * Phone number: +375291847513 
 * Email: Greshnik578@yandex.by 
@@ -12,7 +14,10 @@
 ### Goals: do world better
 
 ### Basic skills:
-* C
+* JS
+* HTML
+* CSS
+* C/C++
 * Kotlin
 * PHP
 * Python
