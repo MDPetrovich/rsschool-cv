@@ -2,8 +2,6 @@
 
 ## Sheluto Viktor
 
-![photo](Photo.jpg "Photo")
-
 #### Contact Info: 
 * Phone number: +375291847513 
 * Email: Greshnik578@yandex.by 
@@ -26,3 +24,5 @@
 #### Education: *Belarussian State Medical University ‘14 *ITstep 2016 (C/C++)
 
 ### English: (A1) basic knowledge.
+
+![photo](Photo.jpg "Photo")
